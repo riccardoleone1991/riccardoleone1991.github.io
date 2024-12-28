@@ -12,9 +12,9 @@ title                    : "Riccardo Leone"
 title_separator          : "-"
 name                     : &name "Riccardo Leone"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://riccardoleone1991.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "riccardoleone1991/riccardoleone1991.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=RbyeuKgAAAAJ&hl=it&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5569-6090"
+  orcid            : "https://orcid.org/0000-0001-5569-6090"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/riccardo-leone-60628969/"
+  linkedin         : "riccardo-leone-60628969"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
