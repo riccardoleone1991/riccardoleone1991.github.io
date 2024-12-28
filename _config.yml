@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Riccardo Leone"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Riccardo Leone"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Riccardo"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate | Board Certified Radiologist"
+  bio              : "PhD Candidate at the University of Bonn | M.D."
   location         : "Bonn, Germany"
   employer         : "University of Bonn"
   uri              : # URL
